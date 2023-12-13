@@ -4,3 +4,4 @@
  * Running on http://192.168.199.96:5000
 [ 2023-12-14 00:08:05,963 ] 96 werkzeug - INFO - [33mPress CTRL+C to quit[0m
 [ 2023-12-14 00:08:05,963 ] 96 werkzeug - INFO -  * Restarting with stat
+[ 2023-12-14 00:18:57,505 ] 96 werkzeug - INFO -  * Restarting with stat
